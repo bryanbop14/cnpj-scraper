@@ -1,0 +1,13 @@
+
+{
+  "name": "cnpj-scraper",
+  "version": "1.0.0",
+  "description": "Scraper de empresas com puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
